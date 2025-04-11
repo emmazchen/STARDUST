@@ -5,7 +5,7 @@ STARDUST (Subcellular-level Tool for Analyzing RNA Distribution USing optimal Tr
 
 ### Installation
 ```
-$ pip install stardust
+$ pip install sc-stardust
 ```
 
 ### Functionalities

@@ -1,6 +1,6 @@
 [project]
 name = "sc-stardust"
-version = "0.1.0"
+version = "0.1.1"
 description = "Subcellular-level Tool for the Analysis of RNA Distribution Using optimal Transport"
 authors = [
     {name = "Emma Chen",email = "emmazhangchenn@gmail.com"}

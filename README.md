@@ -16,3 +16,6 @@ STARDUST includes:
     - barycenters - Cluster cells based on their subcellular transcript distributions and generate barycenters that are representative of each cluster.
 
 - canonical_analysis - Scores cells based on how similar their transcript distributions (for a specific gene of interest) are to user-specified canonical patterns to look for.
+
+
+For the tutorial and more information, check out https://github.com/emmazchen/STARDUST.

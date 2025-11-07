@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/sc-stardust.svg)](https://badge.fury.io/py/sc-stardust)
+
 # STARDUST 🌌
 Imaging-based spatial transcriptomics technologies capture the location of transcripts at subcellular resolution, but established methods represent data at the cell level, ignoring subcellular structure.
 

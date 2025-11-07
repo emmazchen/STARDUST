@@ -7,8 +7,8 @@
 ![Abstract figure](https://github.com/emmazchen/STARDUST/blob/main/fig.png "Abstract figure")
 
 ### Installation
-```
-$ pip install sc-stardust
+```bash
+pip install sc-stardust
 ```
 
 ### Functionalities

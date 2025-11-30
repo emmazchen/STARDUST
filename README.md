@@ -21,4 +21,5 @@ STARDUST includes:
 - canonical_analysis - Scores cells based on how similar their transcript distributions (for a specific gene of interest) are to user-specified canonical patterns to look for.
 
 
-For the tutorial and more information, check out https://github.com/emmazchen/STARDUST.
+For the mathematical details, refer to our [method description](https://github.com/emmazchen/STARDUST/blob/main/method-description.pdf).
+For help running STARDUST, check out our [demo](https://github.com/emmazchen/STARDUST/blob/main/tutorials/demo.ipynb).
